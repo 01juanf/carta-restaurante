@@ -1,12 +1,38 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tecnologías utilizadas
 
-Currently, two official plugins are available:
+- React
+- JavaScript (ES6+)
+- Tailwind CSS
+- Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Funcionalidades principales
 
-## Expanding the ESLint configuration
+- Visualización de platos por categorías
+- Filtros por tipo de comida
+- Diseño responsive para dispositivos móviles y escritorio
+- Componentes reutilizables para cada plato
+- Animaciones visuales al interactuar
+- Botón flotante para volver al inicio
+- Navbar, header con imagen y footer con información de contacto
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Instalación y ejecución
+
+1. Clonar el repositorio:
+
+```bash
+git clone https://github.com/01juanf/carta-restaurante.git
+## Créditos
+
+Aplicaciones Interactivas - Turno Viernes Noche
+
+**Integrantes del grupo**
+
+- Demayo, Alex Oscar – LU 1020288  
+- Ferreira, Juan Ignacio – LU 1187532
+
+## Fuente de imágenes
+
+Las imágenes utilizadas provienen de la plataforma libre de derechos:
+
+[https://pixabay.com/es/](https://pixabay.com/es/)
